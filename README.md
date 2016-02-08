@@ -1,4 +1,5 @@
 # Storytelling-HW1
+## Lyujia Zhang (lz2467)
 Programming assignment 1 for CS6998 Storytelling with Streaming Data.
 
 ### poll-twitter.py
